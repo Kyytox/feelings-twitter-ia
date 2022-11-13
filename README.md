@@ -60,7 +60,7 @@ model = AutoModelForSequenceClassification.from_pretrained(MODEL)
 model.save_pretrained(MODEL)
 ```
 
-### Collect tweets of one user without RT and Replies and apply IA 
+### Collect tweets of one user without RT and Replies and apply Model IA 
 ```python
 # API TWiiter 
 
