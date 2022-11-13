@@ -6,8 +6,8 @@
 #### project make with [Google Colab](https://colab.research.google.com/)
 
 
-1. [Version Google Colab]()
-2. [Version Python]()
+1. [Version Google Colab](https://github.com/Kyytox/feelings-twitter-ia/blob/master/code/Sentiments_Tweets_IA_BERT.ipynb)
+2. [Version .py](https://github.com/Kyytox/feelings-twitter-ia/blob/master/code/sentiments_tweets_ia_bert.py)
 
 
 ### Install Packages 
