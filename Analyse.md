@@ -9,7 +9,7 @@ Petite analyse des sentiments (négatif, positif, neutre) des tweets de différe
 
 @CerfiaFR
 
---
+<br><br>
 Je lis de temps en temps dans les réponses de tweet de média des phrases du style "Notre monde va de plus en plus mal".
 
 Bon pour confirmer ces propos, il faudrait plus qu'un thread, mais là, on va s'intéresser aux news envoyées au public.
